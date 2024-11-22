@@ -58,29 +58,29 @@ A brief chronology of Segment Anything Model (SAM) and its variants for medical 
 
 ## Literature Reviews of SAM 2 Adaptions for Medical Image Segmentation. <div id="sam24mis"></div>
 
-|Date|Authors|Title|Code|
-|---|---|---|---|
-|202408|M. Mansoori et al.|Self-Prompting Polyp Segmentation in Colonoscopy using Hybrid Yolo-SAM 2 Model [(paper)](https://arxiv.org/pdf/2409.09484)|[Code](https://github.com/sajjad-sh33/YOLO_SAM2)|
-|202408|X. Chen et al.|SAM-OCTA2: Layer Sequence OCTA Segmentation with Fine-tuned Segment Anything Model 2 [(paper)](https://arxiv.org/pdf/2409.09286)|[Code](https://github.com/ShellRedia/SAM-OCTA2)|
-|202408|L. Zhao et al.|Retrieval-augmented Few-shot Medical Image Segmentation with Foundation Models [(paper)](https://arxiv.org/pdf/2408.08813)|None|
-|202408|Z. Yildiz et al.|SAM & SAM 2 in 3D Slicer: SegmentWithSAM Extension for Annotating Medical Images [(paper)](https://arxiv.org/pdf/2408.15224)|[Code](https://github.com/mazurowski-lab/SlicerSegmentWithSAM)|
-|202408|Y. He et al.|A Short Review and Evaluation of SAM2’s Performance in 3D CT Image Segmentation [(paper)](https://arxiv.org/pdf/2408.11210)|[Code](https://github.com/Project-MONAI/VISTA)|
-|202408|X. Xiong et al.|SAM2-UNet: Segment Anything 2 Makes Strong Encoder for Natural and Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2408.08870)|[Code](https://github.com/WZH0120/SAM2-UNet)|
-|202408|H. Liu et al.|Surgical SAM 2: Real-time Segment Anything in Surgical Video by Efficient Frame Pruning [(paper)](https://arxiv.org/pdf/2408.07931)|[Code](https://github.com/jinlab-imvr/Surgical-SAM-2)|
-|202408|Y. Yamagishi et al.|Zero-shot 3D Segmentation of Abdominal Organs in CT Scans Using Segment Anything Model 2: Adapting Video Tracking Capabilities for 3D Medical Imaging [(paper)](https://arxiv.org/pdf/2408.06170)|None|
-|202408|M. Mansoori et al.|Polyp SAM 2: Advancing Zero shot Polyp Segmentation in Colorectal Cancer Detection [(paper)](https://arxiv.org/pdf/2408.05892)|[Code](https://github.com/sajjad-sh33/Polyp-SAM-2)|
-|202408|AS. Yu et al.|Novel adaptation of video segmentation to 3D MRI: efficient zero-shot knee segmentation with SAM2 [(paper)](https://arxiv.org/pdf/2408.04762)|None|
-|202408|J. Yu et al.|SAM 2 in Robotic Surgery: An Empirical Evaluation for Robustness and Generalization in Surgical Video Segmentation [(paper)](https://arxiv.org/pdf/2408.04593)|None|
-|202408|T. Chen et al.|SAM2-Adapter: Evaluating & Adapting Segment Anything 2 in Downstream Tasks: Camouflage, Shadow, Medical Image Segmentation, and More [(paper)](https://arxiv.org/pdf/2408.04579)|None|
-|202408|S. Sengupta et al.|Is SAM 2 Better than SAM in Medical Image Segmentation? [(paper)](https://arxiv.org/pdf/2408.04212)|None|
-|202408|Y. Shen et al.|Performance and Non-adversarial Robustness of the Segment Anything Model 2 in Surgical Video Segmentation [(paper)](https://arxiv.org/pdf/2408.04098)|None|
+|Date|Publication|Authors|Title|Code|
+|---|---|---|---|---|
+|202408||M. Mansoori et al.|Self-Prompting Polyp Segmentation in Colonoscopy using Hybrid Yolo-SAM 2 Model [(paper)](https://arxiv.org/pdf/2409.09484)|[Code](https://github.com/sajjad-sh33/YOLO_SAM2)|
+|202408||X. Chen et al.|SAM-OCTA2: Layer Sequence OCTA Segmentation with Fine-tuned Segment Anything Model 2 [(paper)](https://arxiv.org/pdf/2409.09286)|[Code](https://github.com/ShellRedia/SAM-OCTA2)|
+|202408||L. Zhao et al.|Retrieval-augmented Few-shot Medical Image Segmentation with Foundation Models [(paper)](https://arxiv.org/pdf/2408.08813)|None|
+|202408||Z. Yildiz et al.|SAM & SAM 2 in 3D Slicer: SegmentWithSAM Extension for Annotating Medical Images [(paper)](https://arxiv.org/pdf/2408.15224)|[Code](https://github.com/mazurowski-lab/SlicerSegmentWithSAM)|
+|202408||Y. He et al.|A Short Review and Evaluation of SAM2’s Performance in 3D CT Image Segmentation [(paper)](https://arxiv.org/pdf/2408.11210)|[Code](https://github.com/Project-MONAI/VISTA)|
+|202408||X. Xiong et al.|SAM2-UNet: Segment Anything 2 Makes Strong Encoder for Natural and Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2408.08870)|[Code](https://github.com/WZH0120/SAM2-UNet)|
+|202408||H. Liu et al.|Surgical SAM 2: Real-time Segment Anything in Surgical Video by Efficient Frame Pruning [(paper)](https://arxiv.org/pdf/2408.07931)|[Code](https://github.com/jinlab-imvr/Surgical-SAM-2)|
+|202408||Y. Yamagishi et al.|Zero-shot 3D Segmentation of Abdominal Organs in CT Scans Using Segment Anything Model 2: Adapting Video Tracking Capabilities for 3D Medical Imaging [(paper)](https://arxiv.org/pdf/2408.06170)|None|
+|202408||M. Mansoori et al.|Polyp SAM 2: Advancing Zero shot Polyp Segmentation in Colorectal Cancer Detection [(paper)](https://arxiv.org/pdf/2408.05892)|[Code](https://github.com/sajjad-sh33/Polyp-SAM-2)|
+|202408||AS. Yu et al.|Novel adaptation of video segmentation to 3D MRI: efficient zero-shot knee segmentation with SAM2 [(paper)](https://arxiv.org/pdf/2408.04762)|None|
+|202408||J. Yu et al.|SAM 2 in Robotic Surgery: An Empirical Evaluation for Robustness and Generalization in Surgical Video Segmentation [(paper)](https://arxiv.org/pdf/2408.04593)|None|
+|202408||T. Chen et al.|SAM2-Adapter: Evaluating & Adapting Segment Anything 2 in Downstream Tasks: Camouflage, Shadow, Medical Image Segmentation, and More [(paper)](https://arxiv.org/pdf/2408.04579)|None|
+|202408||S. Sengupta et al.|Is SAM 2 Better than SAM in Medical Image Segmentation? [(paper)](https://arxiv.org/pdf/2408.04212)|None|
+|202408||Y. Shen et al.|Performance and Non-adversarial Robustness of the Segment Anything Model 2 in Surgical Video Segmentation [(paper)](https://arxiv.org/pdf/2408.04098)|None|
 |202408|M. Zhang et al.|SAM2-PATH: A better segment anything model for semantic segmentation in digital pathology [(paper)](https://arxiv.org/pdf/2408.03651)|[Code](https://github.com/simzhangbest/SAM2PATH)|
-|202408|J. Ma et al.|Segment Anything in Medical Images and Videos: Benchmark and Deployment [(paper)](https://arxiv.org/pdf/2408.03322)|[Code](https://github.com/bowang-lab/MedSAM)|
-|202408|Z. Yan et al.|Biomedical SAM 2: Segment Anything in Biomedical Images and Videos [(paper)](https://arxiv.org/pdf/2408.03286)|[Code](https://github.com/ZhilingYan/Biomedical-SAM-2)|
-|202408|C. Shen et al.|Interactive 3D Medical Image Segmentation with SAM 2 [(paper)](https://arxiv.org/pdf/2408.02635)|[Code](https://github.com/Chuyun-Shen/SAM_2_Medical_3D)|
-|202408|A. Lou et al.|Zero-Shot Surgical Tool Segmentation in Monocular Video Using Segment Anything Model 2 [(paper)](https://arxiv.org/pdf/2408.01648)|[Code](https://github.com/AngeLouCN/SAM-2_Surgical_Video)|
-|202408|J. Zhu et al.|Medical SAM 2: Segment medical images as video via Segment Anything Model 2 [(paper)](https://arxiv.org/pdf/2408.00874)|[Code](https://github.com/MedicineToken/Medical-SAM2)|
-|202408|H. Dong et al.|Segment anything model 2: an application to 2D and 3D medical images [(paper)](https://arxiv.org/abs/2408.00756)|None|
+|202408||J. Ma et al.|Segment Anything in Medical Images and Videos: Benchmark and Deployment [(paper)](https://arxiv.org/pdf/2408.03322)|[Code](https://github.com/bowang-lab/MedSAM)|
+|202408||Z. Yan et al.|Biomedical SAM 2: Segment Anything in Biomedical Images and Videos [(paper)](https://arxiv.org/pdf/2408.03286)|[Code](https://github.com/ZhilingYan/Biomedical-SAM-2)|
+|202408||C. Shen et al.|Interactive 3D Medical Image Segmentation with SAM 2 [(paper)](https://arxiv.org/pdf/2408.02635)|[Code](https://github.com/Chuyun-Shen/SAM_2_Medical_3D)|
+|202408||A. Lou et al.|Zero-Shot Surgical Tool Segmentation in Monocular Video Using Segment Anything Model 2 [(paper)](https://arxiv.org/pdf/2408.01648)|[Code](https://github.com/AngeLouCN/SAM-2_Surgical_Video)|
+|202408||J. Zhu et al.|Medical SAM 2: Segment medical images as video via Segment Anything Model 2 [(paper)](https://arxiv.org/pdf/2408.00874)|[Code](https://github.com/MedicineToken/Medical-SAM2)|
+|202408||H. Dong et al.|Segment anything model 2: an application to 2D and 3D medical images [(paper)](https://arxiv.org/abs/2408.00756)|None|
 
 
 
